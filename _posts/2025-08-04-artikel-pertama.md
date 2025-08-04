@@ -5,7 +5,7 @@ date: 2025-08-04
 categories: blog
 ---
 
-Halo dunia! 🎉
+Halo dunia! 🎉 halo halo ho ho ho
 
 Ini artikel pertama saya. Ditulis langsung dari GitHub tanpa command prompt.
 
