@@ -3,13 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Farhan Cahyadi
-
+name: EXME
 # Short bio or description (displayed in the header)
-description: Blog Pribadi Farhan Cahyadi
+description: Belajar Online Langsung ke Inti Pembahasan
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/bloghugo/gambar/refs/heads/main/ex.png
 
 #
 # Flags below are optional
