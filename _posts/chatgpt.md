@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "ChatGPT: Inovasi AI yang Mengubah Cara Kita Berinteraksi dengan Teknologi"
-description: "ChatGPT adalah inovasi AI dari OpenAI yang merevolusi cara kita berinteraksi dengan teknologi. Pelajari cara kerjanya, manfaatnya, dan potensi penggunaannya di berbagai bidang."
 date: 2025-08-04
-categories: teknologi, AI, blog
-tags: ChatGPT, AI, teknologi, kecerdasan buatan, OpenAI
-permalink: /chatgpt-inovasi-ai/
-image: https://nextdigital.co.id/wp-content/uploads/2024/07/open-ai-chat-gpt.jpg
+categories: blog
 ---
 
 ## ChatGPT: Inovasi AI yang Mengubah Cara Kita Berinteraksi dengan Teknologi
