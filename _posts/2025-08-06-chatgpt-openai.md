@@ -25,6 +25,9 @@ ChatGPT adalah singkatan dari “Chat Generative Pre-trained Transformer.” Ini
 Model ini adalah bagian dari generasi GPT (Generative Pre-trained Transformer) yang terus diperbarui oleh OpenAI. Versi terbarunya, GPT-4.5 dan GPT-4o, menawarkan kemampuan lebih canggih dalam memahami nuansa bahasa, merespons lebih cepat, dan mendukung multimodal input seperti gambar dan suara.
 
 ---
+<p align="center">
+  <img src="/images/chatgpt.webp" alt="ChatGPT" width="70%">
+</p>
 
 ## Bagaimana Cara Kerja ChatGPT?
 
