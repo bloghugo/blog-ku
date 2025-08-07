@@ -7,7 +7,7 @@ categories: [teknologi, AI]
 tags: [ChatGPT, AI, teknologi, kecerdasan buatan, OpenAI]
 permalink: /chatgpt-inovasi-ai/
 image: "https://cdn.prod.website-files.com/5eb6815bc8e0bd376c3cae22/67e126c92bcf6df99448349a_chatgpt%204.0.webp"
-----
+---
 
 ## ChatGPT: Inovasi AI yang Mengubah Cara Kita Berinteraksi dengan Teknologi
 
